@@ -164,7 +164,7 @@ Login
       >
         <img
           alt="Night"
-          src="https://i.pinimg.com/564x/37/6b/2d/376b2d4d3d869d700997c1b978b5f6fd.jpg"
+          src="https://i.pinimg.com/564x/ef/40/ec/ef40ecb3a10842a4cdcdf601da162fed.jpg"
           class="absolute inset-0 h-full w-full object-cover opacity-80"
         />
 
